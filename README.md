@@ -23,4 +23,5 @@ El proyecto se divide en **dos actividades independientes**:
     ├── concurrenciaPosix.h
     ├── posixSincro.c
     ├── posixSincro.h
+    ├── prueba.txt
     └── Makefile
